@@ -1,7 +1,3 @@
-# frc3620.github.io
-
-Reference pages for FRC 3620 Average Joe programmers...
-
 ## WPILIB
 
 [Java API reference](https://first.wpi.edu/wpilib/allwpilib/docs/release/java/index.html)
