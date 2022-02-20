@@ -1,3 +1,23 @@
+# Things You Really Need to Know Everyday
+* _**[Things to do in every work session](./Things-to-do-in-every-work-session.md)**_
+* [Coding Standards](./Coding-Standards.md)
+* [Adding a Subsystem](./Adding-a-Subsystem.md)
+* [Adding a Command](./Adding-a-Command.md)
+
+# Things You Should Read Once so you can come back to it
+* [Top Java Software Errors: 50 Common Java Errors and How to Avoid Them](https://stackify.com/top-java-software-errors/)
+* [Java basics](https://www.bignerdranch.com/documents/java-two-day-prereading-assignment.pdf)
+* _**[FRC Java Programming](https://wpilib.screenstepslive.com/s/currentCS/m/java)**_
+* [FRC Programming Done Right](https://frc-pdr.readthedocs.io/en/latest/)
+* [How to make your mentors crazy](./How-to-make-your-mentors-crazy.md)
+
+# Average Joes' Code
+* [Training Robot Code](https://github.com/FRC3620/FRC3620_2019_Doug_TrainingRobot_VSCode)
+* [2019 Code](https://github.com/FRC3620/FRC3620_2019_BFR)
+* [2020-2021 Code](https://github.com/FRC3620/FRC3620_2020_GalacticSenate)
+
+# Programming references
+
 ## WPILIB
 
 [Java API reference](https://first.wpi.edu/wpilib/allwpilib/docs/release/java/index.html)

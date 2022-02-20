@@ -1,0 +1,1 @@
+* all CAN motor controllers should have unique numbers, and they should correspond to the PDP slot.
